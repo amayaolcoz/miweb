@@ -1,2 +1,2 @@
-# miweb
+# MIWEB
 Proyecto de ejemplo
